@@ -137,9 +137,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	  return ShapeFile;
 	}(_reactLeaflet.Path);
 
-	ShapeFile.propTypes = {
-	  data: _react.PropTypes.object.isRequired
-	};
+// 	ShapeFile.propTypes = {
+// 	  data: _react.PropTypes.object.isRequired
+// 	};
 	exports.default = ShapeFile;
 
 /***/ },
